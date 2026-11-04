@@ -1,0 +1,7 @@
+Денисов М.С.
+Тестовое задание Developer C# — Vulnerability Tracker API
+
+Репозиторий с решением:
+https://github.com/Sluchaino/DenisovMS_Testovoe_zadanie_DevCSharp
+
+Инструкция по запуску, описание API и допущение об имитации сканирования находятся в README.md.
